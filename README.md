@@ -40,14 +40,8 @@ project-folder/
 ├── index.html
 └── README.md
 ```
+github id:https://github.com/Srimathi-sri102/
 
----
-
-## 📌 Live Demo
-
-```
-https://your-username.github.io/repository-name/Srimathi-sri102
-```
 
 ---
 
@@ -61,12 +55,5 @@ This project is created as a **foundation project for internship preparation**, 
 - Author
 -   Srimathi
 
----
 
-## 📞 Contact
-For any queries or collaboration, feel free to connect.
-
----
-
-⭐ If you like this project, give it a star on GitHub!
 
